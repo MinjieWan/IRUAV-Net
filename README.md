@@ -3,7 +3,7 @@ IRUAV-Net
 
 We have provided the testing code, dataset, and weights to facilitate the review of our work.
 
-(1) Baidu Drive link: [Baidu Driver Download here](). Access Code:  
+(1) Baidu Drive link: [Baidu Driver Download here](https://pan.baidu.com/s/1suEddcIqWobJtBXvgeyd_g?pwd=gf85). Access Code: gf85 
 
 (2) Google Drive link: [Google Driver Download here]().
 

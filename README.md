@@ -15,12 +15,17 @@ Official PyTorch implementation of IRUAV-Net.
 
 ## 📂 Dataset
 
-We use the following dataset:
+We use the following datasets:
 
 ### HIT-UAV
 - Download: https://github.com/suojiashun/HIT-UAV-Infrared-Thermal-Dataset  
 ---
-## 🚀 Training & Testing
+
+### VEDAI
+- Download: https://downloads.greyc.fr/vedai/  
+---
+
+## 🚀 Training & Validating
 
 ### Training
 python train.py
@@ -31,17 +36,16 @@ You can modify training configurations in train.py, including:
 - batch size
 - number of epochs
 
-### Testing
-python test_xxx.py
+### Validating
+python val.py
 
-
-We have provided the testing code, dataset, and weights to facilitate the review of our work.
+## ⚠️ Notes:
+To verify our experimental results, please download the code, dataset, weights, install the necessary dependencies via requirements.txt, and run the val.py script.
 
 (1) Baidu Drive link: [Baidu Driver Download here](https://pan.baidu.com/s/1suEddcIqWobJtBXvgeyd_g?pwd=gf85). Access Code: gf85 
 
 (2) Google Drive link: [Google Driver Download here](https://drive.google.com/drive/folders/12zwIB2bTb50LWs4WnpvVjCOLg4W5Z0B9?usp=drive_link).
 
-To verify our experimental results, please download the code, dataset, weights, install the necessary dependencies via requirements.txt, and run the val.py script.
 
 
 
